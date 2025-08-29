@@ -4,7 +4,7 @@
 🎓  @ Tongji University (TJ)  
 
 🤖 Research Interests: Quadruped Locomotion, Reinforcement Learning, Embodied AI  
-📷 Hobbies: Photography | Fashion | Perfume | Poetry  
+📷 Hobbies: Photography   
 
 ---
 
